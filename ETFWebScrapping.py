@@ -29,6 +29,7 @@ print(numero_paginas)
 # Realizando primeira extração de todos os dados
 
 lista_dados = []
+lista_dados = []
 
 for pagina in range(1, numero_paginas+1):
 

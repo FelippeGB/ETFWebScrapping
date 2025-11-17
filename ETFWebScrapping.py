@@ -1,7 +1,3 @@
-!pip install webdriver-manager
-!pip install selenium
-!pip install html5lib
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
